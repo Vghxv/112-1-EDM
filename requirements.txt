@@ -1,0 +1,10 @@
+pandas 
+numpy 
+seaborn
+matplotlib 
+scikit-learn 
+xgboost 
+lightgbm 
+seaborn 
+ydata-profiling
+ipywidgets
