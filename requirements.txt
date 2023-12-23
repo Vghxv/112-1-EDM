@@ -8,3 +8,7 @@ lightgbm
 seaborn 
 ydata-profiling
 ipywidgets
+xgboost
+plotly
+seaborn
+torch
