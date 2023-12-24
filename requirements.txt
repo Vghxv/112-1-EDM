@@ -12,3 +12,4 @@ xgboost
 plotly
 seaborn
 torch
+category_encoders
