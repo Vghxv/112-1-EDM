@@ -1,0 +1,7 @@
+model,acc,precision_score,recall_score,f1_score
+GradientBoostingClassifier,0.406,0.4,0.406,0.396
+RandomForestClassifier,0.421,0.42,0.421,0.413
+SVC,0.386,0.365,0.386,0.385
+SVC_rbf,0.388,0.365,0.388,0.377
+KNeighborsClassifier,0.354,0.366,0.354,0.348
+XGBClassifier,0.404,0.399,0.404,0.399
